@@ -200,15 +200,11 @@
         }
     </style>
 
-</head>
+
 <body>
      <header>
 
-        <img src="BACANAV1.png" width="95%" hight="5%"
-        padding: 20px 0;
-        text-align: center;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        position: relative />
+
         <h1>"Kamu adalah sosok yang berharga, Setiap hari kamu bertahan, adalah kemenangan."
         
         </h1>
@@ -216,7 +212,7 @@
         
      </header>
 
-     </head>
+    
      <body>
          <nav> 
         <a href="#pengantar">Pengantar</a>
@@ -419,9 +415,9 @@
     }
 </style>
                 </section>
-                <div>
+       
 ![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg?raw=true)
-</div>
+
 
     </main>
 ><Footer>Website ini dibuat untuk P5 kelas 12 Menu 1 (XIIA) semester 1 2024/2025
@@ -434,6 +430,3 @@
               Fayola Tuela ||
         <p> © 2024 Bacarita Smansaku - Bersama, katong Bisa Saling Mendukung!</p>
     </footer>
-
-</body>
-</html>
