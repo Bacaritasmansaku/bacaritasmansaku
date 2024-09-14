@@ -1,3 +1,5 @@
+![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/BACANAV1.png?raw=true)
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -416,7 +418,7 @@
         color: #0073e6;
     }
 </style>
-                     <img src="01.jpg" width="10%" hight="10%" 
+    ![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg?raw=true)
                 </section>
     </main>
 ><Footer>Website ini dibuat untuk P5 kelas 12 Menu 1 (XIIA) semester 1 2024/2025
