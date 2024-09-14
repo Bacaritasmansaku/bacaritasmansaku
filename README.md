@@ -1,8 +1,8 @@
 ![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/BACANAV1.png?raw=true)
 
-<!DOCTYPE html>
+
 <html lang="id">
-<head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bacarita Smansaku - Website Konseling</title>
@@ -361,11 +361,11 @@
                 <textarea id="memahami" name="memahami" rows="4" placeholder="Tulis di Kertas! yuk cari tau!...?"></textarea>
 
              </form>
-        </section>
+      
                 
              <h3>yeay!! Kamu Hebat </h3>
                 <p> Kamu sudah selesai mengerjakannya, aku harap kamu bisa lebih mengenal tentang dirimu dan emosimu.</p>
-        </section>
+        
             <main>
                 <!-- Kontak Darurat -->
                 <section id="kontak-darurat">
@@ -419,7 +419,9 @@
     }
 </style>
                 </section>
+                <div>
 ![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg?raw=true)
+</div>
 
     </main>
 ><Footer>Website ini dibuat untuk P5 kelas 12 Menu 1 (XIIA) semester 1 2024/2025
