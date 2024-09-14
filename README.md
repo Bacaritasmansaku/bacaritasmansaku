@@ -277,7 +277,6 @@
             <P>13 "Ingat, hidup itu bukan soal cepat-cepatan, tapi soal terus maju." - Viktor Jeklin
             </p>
             <!-- Tambahkan lebih banyak kata motivasi belajar di sini -->
-        </section>
 
         <!-- Motivasi Berteman Positif -->
         <section id="motivasi-berteman">
@@ -419,5 +418,8 @@
               Desthree Seu,
               Dian Sipayung,
               Fayola Tuela ||
+    
+![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg?raw=true)
+    
         <p> © 2024 Bacarita Smansaku - Bersama, katong Bisa Saling Mendukung!</p>
     </footer>
