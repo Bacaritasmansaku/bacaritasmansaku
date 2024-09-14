@@ -419,7 +419,8 @@
     }
 </style>
                 </section>
-[ ![alt text][(https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg) ]
+![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg?raw=true)
+
     </main>
 ><Footer>Website ini dibuat untuk P5 kelas 12 Menu 1 (XIIA) semester 1 2024/2025
      ||Kelompok 3||
