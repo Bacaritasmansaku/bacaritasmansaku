@@ -418,8 +418,9 @@
               Desthree Seu,
               Dian Sipayung,
               Fayola Tuela ||
-    
-![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg?raw=true)
-    
+
         <p> © 2024 Bacarita Smansaku - Bersama, katong Bisa Saling Mendukung!</p>
     </footer>
+
+    ![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg?raw=true)
+    
