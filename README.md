@@ -411,7 +411,7 @@
 
 
     </main>
-><Footer>Website ini dibuat untuk P5 kelas 12 Menu 1 (XIIA) semester 1 2024/2025
+<Footer>Website ini dibuat untuk P5 kelas 12 Menu 1 (XIIA) semester 1 2024/2025
      ||Kelompok 3||
      || Ketua : Viktor Jeklin ||
      Anggota : Alexandra Tandjung,
