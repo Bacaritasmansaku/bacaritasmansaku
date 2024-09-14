@@ -202,17 +202,10 @@
 
 
 <body>
-     <header>
-
-
+     <header> 
         <h1>"Kamu adalah sosok yang berharga, Setiap hari kamu bertahan, adalah kemenangan."
-        
-        </h1>
-        
-        
+         </h1>
      </header>
-
-    
      <body>
          <nav> 
         <a href="#pengantar">Pengantar</a>
@@ -415,8 +408,6 @@
     }
 </style>
                 </section>
-       
-![alt text](https://github.com/Bacaritasmansaku/bacaritasmansaku/blob/main/01.jpg?raw=true)
 
 
     </main>
